@@ -1,0 +1,13 @@
+<!DOCTYPE CrossStudio_Package_Description_File>
+<package crossstudio_versions="8:4-" version="0.1" dependencies="CMSIS" filetype="hzq" cpu_family="M467" author="Yoon-Ki Hong" name="M467" cpu_manufacturer="Nuvoton" build_version="2026032301.00172;crossworks_v4;crossworks_v4" date="2026-03-23T00:00:00">
+	<history>
+		<version name="0.1">
+			<description>Initial Release.</description>
+		</version>
+	</history>
+	<targets>
+		<category name="M46x">
+			<cpu name="M467KJHAN"/>
+		</category>
+	</targets>
+</package> 

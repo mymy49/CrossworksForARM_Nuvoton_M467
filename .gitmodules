@@ -1,0 +1,6 @@
+[submodule "yss"]
+	path = yss
+	url = https://github.com/mymy49/yss
+[submodule "targets/M467/yss OS/yss"]
+	path = targets/M467/yss OS/yss
+	url = https://github.com/mymy49/yss
